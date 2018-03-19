@@ -7,6 +7,8 @@ public class Main {
 		p.print("Hello");
 		p.print("World");
 		p.print("!");
+		
+		System.out.println("Done");
 	}
 
 }
